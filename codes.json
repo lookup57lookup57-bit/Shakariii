@@ -1,0 +1,223 @@
+{
+  "ZACATECAS-100d-F5A0D7C7B7EF8DA0": {
+    "duration_days": 100,
+    "max_users": 1,
+    "created_by": 8315528188,
+    "created_at": "2025-12-28T13:30:19.113141",
+    "used_by": [],
+    "active": true
+  },
+  "ZACATECAS-1d-E646BB393823C63C": {
+    "duration_days": 1,
+    "max_users": 10,
+    "created_by": 8315528188,
+    "created_at": "2025-12-28T13:34:53.179790",
+    "used_by": [],
+    "active": true
+  },
+  "ZACATECAS-1d-18D425A514A61FDF": {
+    "duration_days": 1,
+    "max_users": 10,
+    "created_by": 8315528188,
+    "created_at": "2025-12-28T14:37:41.694743",
+    "used_by": [
+      "5994305183",
+      "5749775177",
+      "8412183361",
+      "5867391682",
+      "8331493216",
+      "8189651375",
+      "6890061235",
+      "8503669762",
+      "8482811712",
+      "879498808"
+    ],
+    "active": true
+  },
+  "ZACATECAS-1d-700C78CD3F6E9BAB": {
+    "duration_days": 1,
+    "max_users": 1,
+    "created_by": 8315528188,
+    "created_at": "2025-12-28T14:44:27.832019",
+    "used_by": [
+      "5473909499"
+    ],
+    "active": true
+  },
+  "ZACATECAS-10d-2D9AC37ABB3CB0E4": {
+    "duration_days": 10,
+    "max_users": 1,
+    "created_by": 8315528188,
+    "created_at": "2025-12-28T16:55:50.477490",
+    "used_by": [],
+    "active": true
+  },
+  "ZACATECAS-3d-7BDF96D28BEE91C0": {
+    "duration_days": 3,
+    "max_users": 5,
+    "created_by": 8315528188,
+    "created_at": "2025-12-29T05:56:48.675573",
+    "used_by": [
+      "7552606230",
+      "5218397363",
+      "5264788859",
+      "6715595572",
+      "6626993302"
+    ],
+    "active": true
+  },
+  "ZACATECAS-1d-77EBF47AE2999C10": {
+    "duration_days": 1,
+    "max_users": 5,
+    "created_by": 8315528188,
+    "created_at": "2025-12-29T14:42:30.072578",
+    "used_by": [
+      "8423770094",
+      "5646898343",
+      "5872782361",
+      "5994305183",
+      "8359415288"
+    ],
+    "active": true
+  },
+  "ZACATECAS-1d-D2C19F5DA75BB5F9": {
+    "duration_days": 1,
+    "max_users": 1,
+    "created_by": 8315528188,
+    "created_at": "2025-12-30T03:05:07.441944",
+    "used_by": [],
+    "active": true
+  },
+  "ZACATECAS-1d-A2E744E9D1C0A027": {
+    "duration_days": 1,
+    "max_users": 5,
+    "created_by": 8315528188,
+    "created_at": "2025-12-30T08:15:19.994162",
+    "used_by": [
+      "8423770094",
+      "7653724950",
+      "8434547669",
+      "7899271427",
+      "5994305183"
+    ],
+    "active": true
+  },
+  "ZACATECAS-7d-C51419004149E703": {
+    "duration_days": 7,
+    "max_users": 2,
+    "created_by": 8315528188,
+    "created_at": "2025-12-30T17:02:22.260244",
+    "used_by": [
+      "7552606230",
+      "7653724950"
+    ],
+    "active": true
+  },
+  "ZACATECAS-3d-93D013BBE3E7DEC1": {
+    "duration_days": 3,
+    "max_users": 1,
+    "created_by": 8315528188,
+    "created_at": "2025-12-31T05:41:45.982361",
+    "used_by": [
+      "6097662367"
+    ],
+    "active": true
+  },
+  "ZACATECAS-7d-7DC53D08D392036B": {
+    "duration_days": 7,
+    "max_users": 1,
+    "created_by": 8315528188,
+    "created_at": "2025-12-31T09:01:12.199790",
+    "used_by": [
+      "5466865170"
+    ],
+    "active": true
+  },
+  "ZACATECAS-1d-36871F4B84BAF33B": {
+    "duration_days": 1,
+    "max_users": 5,
+    "created_by": 8315528188,
+    "created_at": "2025-12-31T09:04:04.688583",
+    "used_by": [
+      "1202674202",
+      "8424896205",
+      "8434547669",
+      "1857417752",
+      "8562670204"
+    ],
+    "active": true
+  },
+  "ZACATECAS-1d-6E0DAC1145520CC3": {
+    "duration_days": 1,
+    "max_users": 10,
+    "created_by": 8315528188,
+    "created_at": "2025-12-31T15:22:53.279008",
+    "used_by": [
+      "6522473325"
+    ],
+    "active": true
+  },
+  "ZACATECAS-1d-6BE60C8BACCABF5F": {
+    "duration_days": 1,
+    "max_users": 5,
+    "created_by": 8315528188,
+    "created_at": "2025-12-31T18:51:21.794615",
+    "used_by": [
+      "8295320165",
+      "8214886395",
+      "6890061235"
+    ],
+    "active": true
+  },
+  "ZACATECAS-1d-3055EA0AB0E2BF92": {
+    "duration_days": 1,
+    "max_users": 5,
+    "created_by": 8315528188,
+    "created_at": "2026-01-01T15:14:08.665700",
+    "used_by": [
+      "1202674202",
+      "1852362865",
+      "7495776469",
+      "7521338773",
+      "5221790268"
+    ],
+    "active": true
+  },
+  "ZACATECAS-1d-14C7D361B696AA51": {
+    "duration_days": 1,
+    "max_users": 5,
+    "created_by": 8315528188,
+    "created_at": "2026-01-02T17:00:29.425780",
+    "used_by": [
+      "1749785328",
+      "6335268589",
+      "7552606230",
+      "5466898643",
+      "879498808"
+    ],
+    "active": true
+  },
+  "ZACATECAS-1d-BC8AA6E88DF0CF6C": {
+    "duration_days": 1,
+    "max_users": 10,
+    "created_by": 8315528188,
+    "created_at": "2026-01-03T08:21:29.783543",
+    "used_by": [
+      "5046692180",
+      "5656563504"
+    ],
+    "active": true
+  },
+  "ZACATECAS-1d-A5971FFD0ABDB1A4": {
+    "duration_days": 1,
+    "max_users": 5,
+    "created_by": 8315528188,
+    "created_at": "2026-01-07T05:29:42.980123",
+    "used_by": [
+      "7576309973",
+      "6863051027",
+      "7160020414"
+    ],
+    "active": true
+  }
+}
